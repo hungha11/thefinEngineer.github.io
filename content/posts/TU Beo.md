@@ -1,5 +1,5 @@
 +++
-title = 'My very first post'
+title = 'TU BEO OI'
 date = 2024-09-30T23:06:08+07:00
 +++
 
