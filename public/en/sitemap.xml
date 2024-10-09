@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/2020/mypost/</loc>
+    <lastmod>2024-09-30T23:06:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-30T23:06:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2021/2nd_post/</loc>
+    <lastmod>2024-09-30T23:06:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-30T23:06:08+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vn"
+                href="http://localhost:1313/vn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/posts/2024/3th_post/</loc>
+    <lastmod>2024-09-30T23:06:08+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on The Financial Engineer</title>
+    <link>http://localhost:51729/tags/linux/</link>
+    <description>Recent content in Linux on The Financial Engineer</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Thu, 13 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51729/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>29 câu lệnh Linux bạn nên biết - Phần 1</title>
+      <link>http://localhost:51729/posts/my-first/</link>
+      <pubDate>Thu, 13 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51729/posts/my-first/</guid>
+      <description>&lt;p&gt;Các bản phân phối Linux đều có hỗ trợ giao diện người dùng để tương tác với máy tính. Tuy nhiên trong một số trường hợp sử dụng giao diện command line để điều khiển máy tính sẽ nhanh hơn và đơn giản hơn.&lt;/p&gt;
+&lt;p&gt;Trong giao diện command line, các câu lệnh (command) dùng để ra chỉ thị cho máy tính thực hiện một tác vụ nào đó. Bạn có thể sử dụng câu lệnh để tắt máy tính, xem danh sách các file trong thư mục, sao chép file, di chuyển và xóa file, &amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

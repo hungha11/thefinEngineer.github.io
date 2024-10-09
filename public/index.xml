@@ -1,23 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>The Financial Engineer</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 23:06:08 +0700</lastBuildDate>
+    <language>vi</language>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My very first post</title>
-      <link>http://localhost:1313/posts/mypost/</link>
-      <pubDate>Mon, 30 Sep 2024 23:06:08 +0700</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
-      <description>&lt;p&gt;This is code&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; numpy &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; np
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Very bold&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;title&#34;&gt;Title&lt;/h1&gt;</description>
+      <title>Linear regression</title>
+      <link>http://localhost:1313/posts/2024/2024-10-10-linear-regression/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/2024-10-10-linear-regression/</guid>
+      <description>Ước lượng hệ số beta của cổ phiếu theo 3 cách</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, mình là Hùng.&lt;/p&gt;
+&lt;p&gt;Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant).&lt;/p&gt;
+&lt;p&gt;Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about.png&#34; alt=&#34;Artist&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;các-mảng-yêu-thích&#34;&gt;Các mảng yêu thích&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ứng dụng: Learning to Rank, Probabilistic forecasting, Network Science …&lt;/li&gt;
+&lt;li&gt;ML: Causal ML, Bayesian Inference,…&lt;/li&gt;
+&lt;li&gt;Tài chính: Portfolio optimization &amp;amp; Asset allocation, Factor investing, …&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;khởi-nghiệp---entrepreneurship&#34;&gt;Khởi nghiệp - entrepreneurship&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Không chỉ dừng lại ở bước nghiên cứu, mình mong muốn áp dụng những sản phẩm của mình và các bros đã cùng nghiên cứu cho thị trường Việt Nam. Để làm được điều đó, mình và các cộng sự đã thành lập ra một start up nhỏ tên là &lt;strong&gt;miquant&lt;/strong&gt; để phục vụ việc này.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>blog</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
