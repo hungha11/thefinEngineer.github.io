@@ -14,7 +14,7 @@ Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dàn
 Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!
 
 
-![Artist](/about.png)
+![Artist](/images/about.png)
 
 
 ----------
