@@ -14,7 +14,7 @@ Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dàn
 Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!
 
 
-![Artist](/pages/images/about.png)
+![Artist](/images/about.png)
 
 
 ----------
@@ -22,8 +22,8 @@ Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái
 ## Các mảng yêu thích
 
 - Ứng dụng: Learning to Rank, Probabilistic forecasting, Network Science …
-- ML: Causal ML, Bayesian Inference,…
-- Tài chính: Portfolio optimization & Asset allocation, Factor investing, …
+- Theory: Causal ML, Bayesian Inference,…
+- Tài chính: Portfolio optimization, Asset pricing, Factor investing, …
 
 <!-- ## Khởi nghiệp - entrepreneurship -->
 <!-- {{< rawhtml >}}
