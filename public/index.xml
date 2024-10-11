@@ -6,12 +6,12 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linear regression</title>
       <link>http://localhost:1313/posts/2024/2024-10-10-linear-regression/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2024/2024-10-10-linear-regression/</guid>
       <description>Ước lượng hệ số beta của cổ phiếu theo 3 cách</description>
     </item>
@@ -23,7 +23,7 @@
       <description>&lt;p&gt;Hi, mình là Hùng.&lt;/p&gt;
 &lt;p&gt;Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant).&lt;/p&gt;
 &lt;p&gt;Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about.png&#34; alt=&#34;Artist&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/pages/images/about.png&#34; alt=&#34;Artist&#34;  /&gt;
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;các-mảng-yêu-thích&#34;&gt;Các mảng yêu thích&lt;/h2&gt;

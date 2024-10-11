@@ -1,7 +1,7 @@
 ---
 title: "Linear regression"
 description: "Ước lượng hệ số beta của cổ phiếu theo 3 cách"
-date: 2024-05-10
+date: 2024-10-10
 draft: false
 math: katex
 ---
