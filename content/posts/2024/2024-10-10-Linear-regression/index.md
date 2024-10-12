@@ -176,7 +176,7 @@ $$
 ![image.png](images/5.png)
 
 
-Phương pháp biểu diễn các biến trong Bayesian inference (plate notion). Ở bài toán này, ta sẽ có 3 biến chính: beta, intercept và sigma. Tất cả đều được giả định là phân phối chuẩn.
+Phương pháp biểu diễn các biến trong Bayesian inference (plate notation). Ở bài toán này, ta sẽ có 3 biến chính: beta, intercept và sigma. Tất cả đều được giả định là phân phối chuẩn.
 
 ```
              mean       std    median      5.0%     95.0%     n_eff     r_hat
