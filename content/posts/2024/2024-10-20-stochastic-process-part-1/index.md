@@ -127,7 +127,7 @@ $$
 $$
 \begin{align*}
 E_n(S) 
-= \frac{S}{q - p} - \frac{M}{q - p} \cdot \frac{(\frac{q}{p})^S - 1}{(\frac{q}{p})^M - 1}
+= \frac{n}{q - p} - \frac{N}{q - p} \cdot \frac{(\frac{q}{p})^n - 1}{(\frac{q}{p})^N - 1}
 \end{align*}
 $$
 
