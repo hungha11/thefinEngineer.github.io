@@ -103,7 +103,7 @@ Từ công thức trên, ta có thể tính toán được xác suất con bạc
 ![image.png](images/5.png)
 
 Ta tiến hành giả lập chuỗi thời gian của bài toán này. Từ xác suất trên, ta có thể tính toán được nhiều thứ. Giá trị kì vọng trong 3 trường hợp 0.5, 0.55, 0.45 lần lượt là 10, 18, 2. Với việc giả lập 30 lần, ta có thể thấy giá trị trung bình (hay kì vọng) cũng tiến tới mức này. 
-
+### Thời gian kỳ vọng con bạc dừng lại
 Ngoài ra, dựa trên giả lập trên, ta cũng có thể nhận thấy 1 tính chất rằng, sẽ tới 1 thời gian là các chuỗi sẽ đạt tới điểm dừng (absorbing state). Nôm na là thời điểm kì vọng (hay trung bình) con bạc đạt được $N hoặc thua hết “xèng”.
 
 Với S là thời gian kỳ vọng, D là bước (step), ta có:
