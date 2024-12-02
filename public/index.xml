@@ -6,8 +6,15 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Agent: The future of Investment research</title>
+      <link>http://localhost:1313/posts/2024/2024-12-02-ai-agent-for-investment/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024/2024-12-02-ai-agent-for-investment/</guid>
+      <description>AI Agent ứng dụng trong phân tích và đầu tư</description>
+    </item>
     <item>
       <title>Stochastic process part 1: Gambler&#39;s ruin of VN30F</title>
       <link>http://localhost:1313/posts/2024/2024-10-20-stochastic-process-part-1/</link>
