@@ -7,6 +7,8 @@ math: katex
 summary: "AI Agent là một hệ thống tự động và độc lập, có khả năng xử lý thông tin, ra quyết định và thực hiện các nhiệm vụ trong nhiều lĩnh vực. Bài viết mô tả cách xây dựng một đội ngũ phân tích đầu tư tự trị với các vai trò như phân tích kỹ thuật, phân tích thông tin, tư vấn đầu tư và xây dựng chiến lược giao dịch, sử dụng các công cụ để tự động hóa quy trình phân tích và ra quyết định. AI Agent có tiềm năng ứng dụng rộng rãi trong tương lai gần, tuy nhiên, việc tạo ra một agent đáng tin cậy vẫn là thách thức lớn."
 ---
 
+![1.png](images/1.png#center)
+
 ## Concept
 
 AI Agent, một topic hiện đang rất hot trên thế giới về lĩnh vực AI. 
