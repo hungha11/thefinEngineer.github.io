@@ -378,17 +378,17 @@ News analyst
 Advisor
 
 ```
-2. **Analyst Recommendations**:
-   - Analysts have a consensus that the stock price will rise by 25.5% in the upcoming year.
-   - Price targets have been adjusted upwards multiple times, with the latest target set at ₫34,075.
+2. **Khuyến Nghị Từ Các Nhà Phân Tích**:
+   - Các nhà phân tích đồng thuận rằng giá cổ phiếu sẽ tăng 25.5% trong năm tới.
+   - Các mục tiêu giá đã được điều chỉnh tăng lên nhiều lần, với mục tiêu mới nhất được đặt là ₫34,075.
 
-3. **Market Sentiment**:
-   - Recent declines in stock price have led to HPG being viewed as undervalued, enhancing investor interest.
+3. **Cảm Nhận Thị Trường**:
+   - Sự giảm giá gần đây của cổ phiếu đã khiến HPG được xem là không được định giá đúng, làm tăng sự quan tâm của các nhà đầu tư.
 
-## Key Catalysts
-- **Increasing Demand**: The construction sector in Vietnam continues to grow, driving demand for steel products.
-- **Profit Growth**: Forecasted earnings growth of 24.27% per year, driven by higher sales volumes and improved margins.
-- **Market Position**: HPG holds a dominant market share in construction steel and is well-positioned to benefit from industry trends.
+## Các Yếu Tố Thúc Đẩy
+- **Nhu Cầu Tăng**: Ngành xây dựng tại Việt Nam tiếp tục phát triển, thúc đẩy nhu cầu cho các sản phẩm thép.
+- **Tăng Trưởng Lợi Nhuận**: Dự báo tăng trưởng lợi nhuận 24.27% mỗi năm, được thúc đẩy bởi khối lượng bán hàng cao hơn và biên lợi nhuận cải thiện.
+- **Vị Trí Thị Trường**: HPG nắm giữ thị phần lớn trong thép xây dựng và đang ở vị trí tốt để tận dụng các xu hướng ngành.
 
 ```
 
