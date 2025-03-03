@@ -6,8 +6,15 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI - Người làm việc không ngừng nghỉ</title>
+      <link>http://localhost:1313/posts/2025/2025-03-03-llm-concept-and-application/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/2025-03-03-llm-concept-and-application/</guid>
+      <description>Cơ chế của các mô hình LLM hiện tại cũng như các áp dụng của LLM trong tài chính</description>
+    </item>
     <item>
       <title>Tối ưu hoá danh mục thông qua LLM</title>
       <link>http://localhost:1313/posts/2025/2025-02-03-llm-portfolio-optimization/</link>
