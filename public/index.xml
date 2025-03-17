@@ -6,8 +6,15 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agents - Cách mạng công nghiệp lần thứ 5</title>
+      <link>http://localhost:1313/posts/2025/2025-03-17-agents-valuation/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/2025-03-17-agents-valuation/</guid>
+      <description>Agents trong tài chính thông qua tự động hoá khâu định giá cổ phiếu</description>
+    </item>
     <item>
       <title>AI - Người làm việc không ngừng nghỉ</title>
       <link>http://localhost:1313/posts/2025/2025-03-03-llm-concept-and-application/</link>
