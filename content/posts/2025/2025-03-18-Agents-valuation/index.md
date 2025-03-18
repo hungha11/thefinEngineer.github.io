@@ -1,7 +1,7 @@
 ---
 title: "Agents - Cách mạng công nghiệp lần thứ 5"
 description: "Agents trong tài chính thông qua tự động hoá khâu định giá cổ phiếu"
-date: 2025-03-17
+date: 2025-03-18
 draft: false
 math: katex
 summary: "Miquant khám phá cơ chế của các mô hình ngôn ngữ lớn (LLM) và tác động của AI trong đầu tư, nhấn mạnh khả năng tự động hóa phân tích định tính, cải thiện hiệu suất và độ chính xác trong các tác vụ tài chính, đồng thời khẳng định vai trò quan trọng của con người trong quá trình ra quyết định."
