@@ -153,7 +153,12 @@ Chung quy lại, TSMOM dựa trên 2 kỹ thuật sau
 
 ## Backtest
 
-Thử nghiệm với cổ phiếu HPG.
+Backtest cho chiến lược này tương đối đơn giản.
+Ta sẽ lấy tín hiệu (signal) nhân với số lượng (sizing) và nhân với lợi nhuận tuần sau trừ đi chi phí
+
+$$
+r_{t,t+1}^{TSMOM} =\text{signal} *\text{position} *\text{return} - \text{cost}=  sign(r_{t-6, t})*\frac{0.4}{\sigma_t}*r_{t,t+1} - \text{cost}
+$$
 
 ```python
 def backtest(daily_price, vol_target=0.4, look_back = 6, commission=0.001):
