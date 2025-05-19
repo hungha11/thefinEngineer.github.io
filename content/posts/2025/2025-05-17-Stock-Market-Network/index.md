@@ -4,7 +4,7 @@ description: "Thử nghiệm xây dựng chiến lược dựa trên thuật to�
 date: 2025-05-19
 draft: false
 math: katex
-summary: "Áp dụng Network theory và community detection cho VN100"
+summary: "Nghiên cứu phân tích thị trường chứng khoán VN100 bằng phương pháp phát hiện cộng đồng (Community detection) thông qua PMFG kết hợp với InfoMap/Louvain. Kết quả cho thấy chiến lược đầu tư dựa trên network này mang lại hiệu suất cao hơn VNINDEX."
 ---
 
 ![cover](images/cover.png)
