@@ -6,6 +6,8 @@ draft: false
 math: katex
 summary: "Áp dụng Network theory và community detection cho VN100"
 ---
+
+![cover](images/cover.png)
 Bài viết này thử nghiệm bài toán “Community detection” cho thị trường chứng khoán Việt Nam (VN100) và backtest 1 chiến lược dựa trên thuật toán này.
 
 Bài viết được lấy ý tưởng từ: https://arxiv.org/pdf/2112.13383
