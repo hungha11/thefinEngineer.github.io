@@ -1,5 +1,5 @@
 ---
-title: "Community detection in VN100"
+title: "Community detection for VN100"
 description: "Thử nghiệm xây dựng chiến lược dựa trên thuật toán community detection"
 date: 2025-05-19
 draft: false
