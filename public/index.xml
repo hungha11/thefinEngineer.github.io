@@ -9,7 +9,7 @@
     <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Community detection in VN100</title>
+      <title>Community detection for VN100</title>
       <link>http://localhost:1313/posts/2025/2025-05-17-stock-market-network/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/2025/2025-05-17-stock-market-network/</guid>
@@ -72,31 +72,17 @@
       <description>&lt;p&gt;Hi, mình là Hùng.&lt;/p&gt;
 &lt;p&gt;Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant).&lt;/p&gt;
 &lt;p&gt;Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!&lt;/p&gt;
-&lt;hr&gt;
+&lt;h2 id=&#34;artistartistpng&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/artist.png&#34; alt=&#34;Artist&#34;  /&gt;
+&lt;/h2&gt;
 &lt;h2 id=&#34;các-mảng-yêu-thích&#34;&gt;Các mảng yêu thích&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Ứng dụng: Learning to Rank, Probabilistic forecasting, Network Science …&lt;/li&gt;
 &lt;li&gt;Lý thuyết: Causal ML, Bayesian Inference, Stochastic process …&lt;/li&gt;
 &lt;li&gt;Tài chính: Portfolio optimization, Asset pricing, Factor investing, …&lt;/li&gt;
-&lt;li&gt;Rất mong muốn hợp tác để thực hiện publication (không giới hạn vào các chủ đề trên)&lt;/li&gt;
+&lt;li&gt;Rất mong muốn hợp tác để thực hiện các nghiên cứu chung!&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;học-vấn&#34;&gt;Học vấn&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;MSc Artificial Intelligent (RMIT Vietnam)&lt;/li&gt;
-&lt;li&gt;BSc Economics &amp;amp; Finance (RMIT Vietnam)&lt;/li&gt;
-&lt;li&gt;CFA lev 1&lt;/li&gt;
-&lt;li&gt;Self taught Data Sci &amp;amp; Quant!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;liên-hệ&#34;&gt;Liên hệ&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Email: &lt;a href=&#34;mailto:hungha1412@gmail.com&#34;&gt;hungha1412@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/haquochung11/&#34;&gt;qhung&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h2 id=&#34;miquant&#34;&gt;Miquant&lt;/h2&gt;
+&lt;p&gt;Mình và các anh em có xây dựng một start up &amp;ldquo;nhỏ&amp;rdquo; về tài chính định lượng và AI mang tên &lt;a href=&#34;miquant.vn&#34;&gt;miquant&lt;/a&gt;. Sản phẩm này giúp nhà đầu tư, nhà phân tích hay các nhà nghiên cứu chuyên sâu về cổ phiếu một cách nhanh chóng, đáng tin và chính xác.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>

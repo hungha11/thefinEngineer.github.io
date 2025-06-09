@@ -1,6 +1,5 @@
 baseURL: 'https://vnquant.vn/'
 title: The Financial Engineer
-paginate: 10
 theme: [PaperMod]
 defaultContentLanguage: vi
 
@@ -14,6 +13,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+pagination:
+  pagerSize: 10
 
 params:
   env: production
