@@ -3,11 +3,16 @@ title: The Financial Engineer
 theme: [PaperMod]
 defaultContentLanguage: vi
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 disableKinds: ['section']
+
+sitemap:
+  changefreq: "monthly"
+  filename: "sitemap.xml"
+  priority: 0.5
 
 minify:
   disableXML: true
