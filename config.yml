@@ -1,8 +1,11 @@
 baseURL: 'https://vnquant.vn/'
-title: The Financial Engineer
+title: 'The Financial Engineer'
 theme: [PaperMod]
 defaultContentLanguage: vi
-googleAnalytics: "G-QN9CH6KS4T"
+
+# Google Analytics (GA4)
+googleAnalytics: 'G-BEV31LZP2J'
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -10,8 +13,8 @@ buildExpired: false
 disableKinds: ['section']
 
 sitemap:
-  changefreq: "monthly"
-  filename: "sitemap.xml"
+  changefreq: 'monthly'
+  filename: 'sitemap.xml'
   priority: 0.5
 
 minify:
@@ -24,6 +27,9 @@ pagination:
 params:
   env: production
   defaultTheme: auto
+  disableThemeToggle: false
+
+  # Display settings
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -31,26 +37,31 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
-  UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
+
+  # Table of Contents
+  UseHugoToc: true
+  showtoc: true
+  tocopen: true
+
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: true
-  tocopen: false
+
+  # Branding
   label:
     text: 'The Financial Engineer'
   profileMode:
     enabled: false
-  homeInfoParams:
-    Title: 'The Financial Engineer'
-    Content: 'Analyzing Vietnam financial market quantitatively'
-  socialIcons:
-    - name: facebook
-    - name: github
-      url: 'https://github.com/hungha11'
-    - name: stackoverflow
+
+  # Cover images
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  # Search (Fuse.js)
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -58,9 +69,23 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ['title','permalink','summary','content']
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+  # Math rendering
   math: true
 
+  # Giscus comment widget
+  giscus:
+    repo: "$user/$repo"
+    repoID: "$someID"
+    category: "General"
+    categoryID: "$categoryID"
+    mapping: "url"
+    inputPosition: "top"
 
 markup:
   highlight:
@@ -69,23 +94,19 @@ markup:
   goldmark:
     extensions:
       passthrough:
+        enable: true
         delimiters:
           block:
-          - - \[
-            - \]
-          - - $$
-            - $$
+            - ['\\[','\\]']
+            - ['$$','$$']
           inline:
-          - - \(
-            - \)
-        enable: true
-
+            - ['\\(','\\)']
 
 outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON
 
 menu:
   main:
@@ -101,11 +122,3 @@ menu:
     - name: About
       url: about/
       weight: 5
-
-giscus:
-    repo: "$user/$repo"
-    repoID: "$someID"
-    category: "General"
-    categoryID: "$categoryID"
-    mapping: "url"
-    inputPosition: "top"
