@@ -1,8 +1,11 @@
 baseURL: 'https://vnquant.vn/'
-title: The Financial Engineer
+title: 'The Financial Engineer'
 theme: [PaperMod]
 defaultContentLanguage: vi
-googleAnalytics: "G-QN9CH6KS4T"
+
+# Google Analytics (GA4)
+googleAnalytics: 'G-QN9CH6KS4T'
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -10,8 +13,8 @@ buildExpired: false
 disableKinds: ['section']
 
 sitemap:
-  changefreq: "monthly"
-  filename: "sitemap.xml"
+  changefreq: 'monthly'
+  filename: 'sitemap.xml'
   priority: 0.5
 
 minify:
@@ -40,31 +43,23 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+
   label:
     text: 'The Financial Engineer'
-  # profile-mode
+
   profileMode:
-    enabled: false # needs to be explicitly set
-  # home-info mode
+    enabled: false
+
   homeInfoParams:
-      Title: 'The Financial Engineer'
-      Content: 'Analyzing Vietnam financial market quantitatively'
+    Title: 'The Financial Engineer'
+    Content: 'Analyzing Vietnam financial market quantitatively'
 
   socialIcons:
     - name: facebook
     - name: github
       url: 'https://github.com/hungha11'
     - name: stackoverflow
-  analytics:
-      google:
-        SiteVerificationTag: 'G-QN9CH6KS4T'
-  cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -72,7 +67,18 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ['title', 'permalink', 'summary', 'content']
+    keys: ['title','permalink','summary','content']
+
+  math: true
+
+  # If you want Giscus comments, nest them here:
+  giscus:
+    repo: "$user/$repo"
+    repoID: "$someID"
+    category: "General"
+    categoryID: "$categoryID"
+    mapping: "url"
+    inputPosition: "top"
 
 markup:
   highlight:
@@ -83,22 +89,17 @@ markup:
       passthrough:
         delimiters:
           block:
-          - - \[
-            - \]
-          - - $$
-            - $$
+            - ['\\[','\\]']
+            - ['$$','$$']
           inline:
-          - - \(
-            - \)
+            - ['\\(','\\)']
         enable: true
-params:
-  math: true
 
 outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON
 
 menu:
   main:
@@ -114,11 +115,3 @@ menu:
     - name: About
       url: about/
       weight: 5
-
-giscus:
-    repo: "$user/$repo"
-    repoID: "$someID"
-    category: "General"
-    categoryID: "$categoryID"
-    mapping: "url"
-    inputPosition: "top"
