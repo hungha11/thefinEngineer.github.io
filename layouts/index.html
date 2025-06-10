@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<section class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center py-16">
+
+    <!-- LEFT COLUMN: Title, description, icons -->
+    <div>
+        <h1 class="text-5xl font-extrabold">{{ .Site.Title }}</h1>
+        <p class="mt-2 text-lg text-gray-600">
+            <!-- your extra one-line description -->
+            Chuyên phân tích thị trường tài chính Việt Nam bằng phương pháp định lượng.
+        </p>
+        <div class="mt-4 flex space-x-4">
+            {{/* this partial already ships with PaperMod */}}
+            {{ partial "social-icons.html" . }}
+        </div>
+    </div>
+
+    <!-- RIGHT COLUMN: Hero image -->
+    <div class="flex justify-center">
+        <img src="{{ " hamster.png" | relURL }}" alt="Hero illustration" class="max-w-xs rounded-lg shadow-lg" />
+    </div>
+
+</section>
+
+{{/* then fall back to the normal article list */}}
+{{ partial "articles.html" . }}
+
+{{ end }}
