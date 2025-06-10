@@ -1,11 +1,8 @@
 baseURL: 'https://vnquant.vn/'
-title: 'The Financial Engineer'
+title: The Financial Engineer
 theme: [PaperMod]
 defaultContentLanguage: vi
-
-# Google Analytics (GA4)
-googleAnalytics: 'G-QN9CH6KS4T'
-
+googleAnalytics: "G-QN9CH6KS4T"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -13,8 +10,8 @@ buildExpired: false
 disableKinds: ['section']
 
 sitemap:
-  changefreq: 'monthly'
-  filename: 'sitemap.xml'
+  changefreq: "monthly"
+  filename: "sitemap.xml"
   priority: 0.5
 
 minify:
@@ -27,7 +24,6 @@ pagination:
 params:
   env: production
   defaultTheme: auto
-  disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -43,23 +39,18 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-
   label:
     text: 'The Financial Engineer'
-
   profileMode:
     enabled: false
-
   homeInfoParams:
     Title: 'The Financial Engineer'
     Content: 'Analyzing Vietnam financial market quantitatively'
-
   socialIcons:
     - name: facebook
     - name: github
       url: 'https://github.com/hungha11'
     - name: stackoverflow
-
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -68,17 +59,8 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ['title','permalink','summary','content']
-
   math: true
 
-  # If you want Giscus comments, nest them here:
-  giscus:
-    repo: "$user/$repo"
-    repoID: "$someID"
-    category: "General"
-    categoryID: "$categoryID"
-    mapping: "url"
-    inputPosition: "top"
 
 markup:
   highlight:
@@ -89,17 +71,21 @@ markup:
       passthrough:
         delimiters:
           block:
-            - ['\\[','\\]']
-            - ['$$','$$']
+          - - \[
+            - \]
+          - - $$
+            - $$
           inline:
-            - ['\\(','\\)']
+          - - \(
+            - \)
         enable: true
+
 
 outputs:
   home:
     - HTML
     - RSS
-    - JSON
+    - JSON # is necessary
 
 menu:
   main:
@@ -115,3 +101,11 @@ menu:
     - name: About
       url: about/
       weight: 5
+
+giscus:
+    repo: "$user/$repo"
+    repoID: "$someID"
+    category: "General"
+    categoryID: "$categoryID"
+    mapping: "url"
+    inputPosition: "top"
