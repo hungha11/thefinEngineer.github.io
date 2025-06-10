@@ -2,7 +2,7 @@ baseURL: 'https://vnquant.vn/'
 title: The Financial Engineer
 theme: [PaperMod]
 defaultContentLanguage: vi
-
+googleAnalytics: "G-BEV31LZP2J"
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
