@@ -6,14 +6,18 @@ ShowToc: false
 disableShare: true
 comments: false
 ---
+<img src="/hamster.png"
+     alt="A hamster coding on a laptop"
+     width="50%"
+     style="display:block; margin:0 auto; height:auto;">
 
-Hi, mình là Hùng. 
+Hi, mình là Hùng. Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant). Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!
 
-Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant).
+<img src="/artist.png"
+     alt="Artist"
+     width="70%"
+     style="display:block; margin:0 auto; height:auto;">
 
-Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!
-
-![Artist](/artist.png)
 ----------
 
 ## Các mảng yêu thích

@@ -77,6 +77,7 @@ params:
 
   # Math rendering
   math: true
+  # engine: katex
 
   # Giscus comment widget
   giscus:
@@ -91,16 +92,25 @@ markup:
   highlight:
     lineNos: true
     style: monokai
+
   goldmark:
+    parser:
+      attribute:
+        enable: true
+    renderer:
+      unsafe: true
     extensions:
       passthrough:
-        enable: true
         delimiters:
           block:
-            - ['\\[','\\]']
-            - ['$$','$$']
+          - - \[
+            - \]
+          - - $$
+            - $$
           inline:
-            - ['\\(','\\)']
+          - - \(
+            - \)
+        enable: true
 
 outputs:
   home:

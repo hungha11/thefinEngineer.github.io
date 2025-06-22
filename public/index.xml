@@ -6,8 +6,15 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph visibility for regime detection and risk management</title>
+      <link>http://localhost:1313/posts/2025/2025-06-23-graph-visibility-regime-and-risk-management/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/2025-06-23-graph-visibility-regime-and-risk-management/</guid>
+      <description>Thử nghiệm graph visibility cho xác định regime và cơ chế quản trị rủi ro</description>
+    </item>
     <item>
       <title>Community detection for VN100</title>
       <link>http://localhost:1313/posts/2025/2025-05-17-stock-market-network/</link>
@@ -69,20 +76,15 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, mình là Hùng.&lt;/p&gt;
-&lt;p&gt;Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant).&lt;/p&gt;
-&lt;p&gt;Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!&lt;/p&gt;
-&lt;h2 id=&#34;artistartistpng&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/artist.png&#34; alt=&#34;Artist&#34;  /&gt;
-&lt;/h2&gt;
-&lt;h2 id=&#34;các-mảng-yêu-thích&#34;&gt;Các mảng yêu thích&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Ứng dụng: Learning to Rank, Probabilistic forecasting, Network Science …&lt;/li&gt;
-&lt;li&gt;Lý thuyết: Causal ML, Bayesian Inference, Stochastic process …&lt;/li&gt;
-&lt;li&gt;Tài chính: Portfolio optimization, Asset pricing, Factor investing, …&lt;/li&gt;
-&lt;li&gt;Rất mong muốn hợp tác để thực hiện các nghiên cứu chung!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;miquant&#34;&gt;Miquant&lt;/h2&gt;
-&lt;p&gt;Mình và các anh em có xây dựng một start up &amp;ldquo;nhỏ&amp;rdquo; về tài chính định lượng và AI mang tên &lt;a href=&#34;miquant.vn&#34;&gt;miquant&lt;/a&gt;. Sản phẩm này giúp nhà đầu tư, nhà phân tích hay các nhà nghiên cứu chuyên sâu về cổ phiếu một cách nhanh chóng, đáng tin và chính xác.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/hamster.png&#34;
+alt=&#34;A hamster coding on a laptop&#34;
+width=&#34;50%&#34;
+style=&#34;display:block; margin:0 auto; height:auto;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hi, mình là Hùng. Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant). Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/artist.png&#34;
+alt=&#34;Artist&#34;
+width=&#34;70%&#34;
+style=&#34;display:block; margin:0 auto; height:auto;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
