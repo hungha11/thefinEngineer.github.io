@@ -153,6 +153,10 @@ Chuyển đổi ngược trở lại thành time series thì sẽ trông như sa
 
 Phương pháp bắt tương đối chuẩn các thay đổi của giá cổ phiếu FPT. Với VNINDEX, việc xác định regime cũng tương đối chính xác và ta có thể nhận thấy Regime thứ 7 xuất hiện 3 lần. Việc xác định regime về mặt cảm quan là tương đối chính xác, tuy nhiên để thực sự đưa được regime này vào trong chiến lược đầu tư thì sẽ cần nhiều tính toán chi tiết hơn như: các thông tin mô tả mạng như (average shortest path, diameter, density, clustering coefficient,…). Viết phát triển tiếp tục mô hình regime detection này sẽ được nhường lại cho bạn đọc, hì! 
 
+![cluster count](images/10.png)
+
+Số lượng ngày giao dịch trong từng communtiy (hay regime). Ta có thể thấy giao động từ khoảng 15, 20, 40 và 60 tương ứng với regime ngắn thường giao động khoảng 3 tuần tới 1 tháng và regime dài có thể giao động từ 2-3 tháng.
+
 ### Risk management indicator
 
 Một trong những ứng dụng khác của mô hình này là xây dựng các chỉ báo nhằm phục vụ cho việc quản trị rủi ro. Bài viết sử dụng 2 chỉ báo 
@@ -306,6 +310,8 @@ Visibility Graph mở ra một lăng kính mới trong phân tích chuỗi thờ
 Ngoài ra, phương pháp này cũng là một cách tiếp cận đầy tiềm năng trong việc xây dựng các công cụ quản trị rủi ro thông qua khai thác thêm các đặc trưng mạng để xác định các giai đoạn stress của thị trường, rủi ro phân mảnh của cổ phiếu hay chuyển đổi regime để từ đó tích hợp vào trong từng chiến lược đầu tư.
 
 Tóm lại, visibility graph không chỉ là công cụ hỗ trợ phân tích chuỗi thời gian mà còn là nền tảng để xây dựng các chỉ báo rủi ro mang tính cấu trúc và động lực. Việc tiếp tục khai thác các đặc trưng mạng chuyên sâu và tinh chỉnh cơ chế kích hoạt sẽ giúp hoàn thiện mô hình, đồng thời đem lại lợi thế cạnh tranh trong quản trị rủi ro và tối ưu hóa chiến lược đầu tư.
+
+Để lấy file code và dữ liệu, vui lòng gửi email tới [hung.ha@miquant.vn](mailto:hung.ha@miquant.vn)
 
 ## Reference
 
