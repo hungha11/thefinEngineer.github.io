@@ -13,19 +13,15 @@ comments: false
 
 Hi, mình là Hùng. Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietnam với đam mê dành cho mảng đầu tư định lượng (Quant). Blog này là nơi mình chia sẻ kiến thức (đa phần là lưu trữ cái mình học) và nếu nó giúp được bạn trong chuyến phiêu lưu ngành quant thì mình rất vui!
 
-<img src="/artist.png"
-     alt="Artist"
-     width="70%"
-     style="display:block; margin:0 auto; height:auto;">
-
 ----------
 
 ## Các mảng yêu thích
 
-- Ứng dụng: Learning to Rank, Probabilistic forecasting, Network Science …
-- Lý thuyết: Causal ML, Bayesian Inference, Stochastic process …
-- Tài chính: Portfolio optimization, Asset pricing, Factor investing, …
-- Rất mong muốn hợp tác để thực hiện các nghiên cứu chung!
+- AI & data sci: Learning to Rank, Network science, Causal ML,…
+- Tài chính: Portfolio optimization, Asset pricing, Factor investing, High frequency trading.
+
+**Publication**:\
+Decoding the Infrastructure Announcement Effect to Real Estate Price in Urban Vietnam Case Study: The Impact of Metro Line 1 HCMC, preprint The International Conference on Business and Technology (ICBT’Cairo2025), [draft](https://drive.google.com/file/d/1R4bEaI_Yz0ah5vFO80vJTwyDcUaP1UPG/view?usp=share_link)
 
 ## Miquant
 Mình và các anh em có xây dựng một start up "nhỏ" về tài chính định lượng và AI mang tên [miquant](miquant.vn). Sản phẩm này giúp nhà đầu tư, nhà phân tích hay các nhà nghiên cứu chuyên sâu về cổ phiếu một cách nhanh chóng, đáng tin và chính xác. 
