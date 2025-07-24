@@ -17,8 +17,10 @@ Hi, mình là Hùng. Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietna
 
 ## Các mảng yêu thích
 
-- AI & data sci: Learning to Rank, Network science, Causal ML,…
-- Tài chính: Portfolio optimization, Asset pricing, Factor investing, High frequency trading.
+- AI & data sci: Learning to Rank, Network science, Causal ML, Deep learning, Reinforcement learning, …
+- Tài chính: Portfolio optimization, Asset pricing, Factor investing, High frequency trading, ...
+- Rất open với collaboration :), liên hệ thông qua [Linkedin](https://www.linkedin.com/in/haquochung11/)
+
 
 **Publication**:\
 Decoding the Infrastructure Announcement Effect to Real Estate Price in Urban Vietnam Case Study: The Impact of Metro Line 1 HCMC, preprint The International Conference on Business and Technology (ICBT’Cairo2025), [draft](https://drive.google.com/file/d/1R4bEaI_Yz0ah5vFO80vJTwyDcUaP1UPG/view?usp=share_link)
