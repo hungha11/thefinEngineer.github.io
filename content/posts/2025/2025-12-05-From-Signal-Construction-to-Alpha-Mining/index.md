@@ -6,6 +6,9 @@ draft: false
 math: katex
 summary: "Bài viết chỉ ra giới hạn của Signal Construction truyền thống khi tín hiệu cố định không theo kịp sự thay đổi nhanh của thị trường Việt Nam, minh họa qua trường hợp Quality Factor năm 2025. Từ đó, bài viết giới thiệu Alpha Mining – phương pháp để mô hình tự khám phá tín hiệu từ dữ liệu thay vì dựa vào công thức định sẵn. Kiến trúc Alpha Mining gồm bốn tầng: dữ liệu, mô hình, backtest động và triển khai, cho phép xây dựng nhiều chiến lược, tự-kiểm định và tổng hợp theo hướng ensemble. Kết luận nhấn mạnh Alpha Mining là cách tiếp cận phù hợp hơn trong môi trường nhiều nhiễu, alpha decay nhanh và hành vi thị trường phi tuyến như Việt Nam."
 ---
+<p align="center">
+<img src="./images/cover.png" alt="Cover">
+</p>
 
 Trong suốt nhiều thập kỷ, đầu tư định lượng phát triển dựa trên nền tảng đơn giản: con người tự xây dựng tín hiệu, mô hình hoá chúng thành yếu tố hay tín hiệu (signal, factor), kiểm định (backtest), tinh chỉnh (calibration), rồi kỳ vọng rằng chiến lược đó sẽ hoạt động ổn định qua thời gian. Đây là thời kỳ của những hệ số quen thuộc như ROE, ROA, Momentum 12M–1M hay Price-to-Book (P/B). Nhưng khi dữ liệu ngày càng nhiều, thị trường ngày càng biến động và alpha trở nên khan hiếm, quy trình truyền thống lộ rõ sự chậm chạp và thiếu linh hoạt. 
 
@@ -76,7 +79,7 @@ Ngay trong báo cáo Quality VN100, chỉ số rolling beta cho thấy Quality t
 
 ### **Bài học quan trọng từ trường hợp 2025**
 
-Chất lượng — dù mang tính bền vững — nhưng không phải lúc nào cũng hiệu quả, đặc biệt trong thị trường Việt Nam với: (1) cấu trúc ngành biến động nhanh, (2) dòng tiền cá nhân chi phối, (3) chu kỳ tín dụng thay đổi liên tục, (3) và sự luân phiên mạnh giữa nhóm phòng thủ và nhóm chu kỳ.
+Chất lượng — dù mang tính bền vững — nhưng không phải lúc nào cũng hiệu quả, đặc biệt trong thị trường Việt Nam với: (1) cấu trúc ngành biến động nhanh, (2) dòng tiền cá nhân chi phối, (3) chu kỳ tín dụng thay đổi liên tục, (4) và sự luân phiên mạnh giữa nhóm phòng thủ và nhóm chu kỳ.
 
 Những điều này khiến một yếu tố đơn lẻ như Quality dễ rơi vào trạng thái “mismatch với thị trường”. Chiến lược hoạt động tốt khi thị trường cần sự an toàn, nhưng lập tức hụt hơi khi nhà đầu tư theo đuổi những doanh nghiệp có rủi ro cao (như đòn bẩy lớn hoặc beta cao). Chính case study năm 2025 là ví dụ hoàn hảo cho thấy tính rủi ro của việc phụ thuộc vào một yếu tố cố định, đặc biệt là khi thị trường chuyển sang trạng thái mà yếu tố đó không còn là “người được ưu ái”.
 
