@@ -25,6 +25,9 @@ Hi, mình là Hùng. Hiện mình là sinh viên thạc sĩ AI tại RMIT Vietna
 **Publication**:\
 Decoding the Infrastructure Announcement Effect to Real Estate Price in Urban Vietnam Case Study: The Impact of Metro Line 1 HCMC, preprint The International Conference on Business and Technology (ICBT’Cairo2025), [draft](https://drive.google.com/file/d/1R4bEaI_Yz0ah5vFO80vJTwyDcUaP1UPG/view?usp=share_link)
 
+N. L. G. Bao, H. Q. Hung, V. P. A. Khoa, and N. P. Thanh, “Impact of margin cuts on stock returns and trading value: evidence from the Vietnamese stock market,” Journal of Economics and Finance, vol. 50, no. 1, June 2026, doi: 10.1007/s12197-026-09773-x.
+
+
 ## Miquant
 Mình và các anh em có xây dựng một start up "nhỏ" về tài chính định lượng và AI mang tên [miquant](miquant.vn). Sản phẩm này giúp nhà đầu tư, nhà phân tích hay các nhà nghiên cứu chuyên sâu về cổ phiếu một cách nhanh chóng, đáng tin và chính xác. 
 
