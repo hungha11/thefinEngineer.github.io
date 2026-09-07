@@ -4,7 +4,7 @@ description: "Sử dụng RL để chơi block blast"
 date: 2026-09-06
 draft: false
 math: katex
-summary: "Summary."
+summary: "Bài viết đầu tiên trong chuỗi series về ứng dụng của RL vào trong thực tế. Bắt đầu chuỗi bằng ứng dụng vào một trò chơi quen thuộc Block Blast. Bài viết giới thiệu các lý thuyết quan trọng từ MDP, Value function, Bellman, Dynamic programming và kết hợp với Search Tree để planning và chơi trò Block Blast"
 ---
 
 <p align="center">

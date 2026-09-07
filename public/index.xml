@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Reinforcement learning Part 1: Block Blast</title>
-      <link>http://localhost:1313/posts/2026/2025-02-03-llm-portfolio-optimization/</link>
+      <link>http://localhost:1313/posts/2026/2026-09-06-rl-part1-block-blast/</link>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2026/2025-02-03-llm-portfolio-optimization/</guid>
+      <guid>http://localhost:1313/posts/2026/2026-09-06-rl-part1-block-blast/</guid>
       <description>Sử dụng RL để chơi block blast</description>
     </item>
     <item>
