@@ -6,8 +6,15 @@
     <description>Recent content on The Financial Engineer</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Reinforcement learning Part 1: Block Blast</title>
+      <link>http://localhost:1313/posts/2026/2025-02-03-llm-portfolio-optimization/</link>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026/2025-02-03-llm-portfolio-optimization/</guid>
+      <description>Sử dụng RL để chơi block blast</description>
+    </item>
     <item>
       <title>From Signal construction to Alpha engineering</title>
       <link>http://localhost:1313/posts/2025/2025-12-05-from-signal-construction-to-alpha-mining/</link>
